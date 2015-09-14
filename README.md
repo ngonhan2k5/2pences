@@ -1,9 +1,10 @@
 # 2pences
 
-All my two pence with be here!
+All my two pences will be here!
 
 ## List
-### split_html: Get part of html content by length of texts without break the HTML structures.
+### 1. split_html: 
+Get part of html content by length of texts without break the HTML structures.
 
 
 ## Credits
